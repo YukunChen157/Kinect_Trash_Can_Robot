@@ -1,4 +1,4 @@
-Code for movement of robot
+CODE FOR CALIBRATION AND MOVEMENT OF ROBOT
 
 OPERATION INSTRUCTION:
 1. Put the robot on the ground, turn its heading to where you want the robot goes as 0 degree. The heading direction is the center of the robot pointing to wheel No.1 (the opposite direction of the Arduino board).
